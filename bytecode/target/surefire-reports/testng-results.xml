@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Command line suite" duration-ms="46" started-at="2012-09-20T10:33:43Z" finished-at="2012-09-20T10:33:43Z">
+    <groups>
+    </groups>
+    <test name="Command line test" duration-ms="46" started-at="2012-09-20T10:33:43Z" finished-at="2012-09-20T10:33:43Z">
+      <class name="com.sfeir.bytecode.ItemHelperTest">
+        <test-method status="PASS" signature="testNormalExecution()[pri:0, instance:com.sfeir.bytecode.ItemHelperTest@10849bc]" name="testNormalExecution" duration-ms="10" started-at="2012-09-20T12:33:43Z" finished-at="2012-09-20T12:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNormalExecution -->
+        <test-method status="PASS" signature="testNullOrEmptyParameters()[pri:0, instance:com.sfeir.bytecode.ItemHelperTest@10849bc]" name="testNullOrEmptyParameters" duration-ms="1" started-at="2012-09-20T12:33:43Z" finished-at="2012-09-20T12:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testNullOrEmptyParameters -->
+        <test-method status="PASS" signature="testPrinter()[pri:0, instance:com.sfeir.bytecode.ItemHelperTest@10849bc]" name="testPrinter" duration-ms="5" started-at="2012-09-20T12:33:43Z" finished-at="2012-09-20T12:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testPrinter -->
+      </class> <!-- com.sfeir.bytecode.ItemHelperTest -->
+      <class name="com.sfeir.bytecode.CivilityHelperTest">
+        <test-method status="PASS" signature="testCivilities()[pri:0, instance:com.sfeir.bytecode.CivilityHelperTest@bb7759]" name="testCivilities" duration-ms="12" started-at="2012-09-20T12:33:43Z" finished-at="2012-09-20T12:33:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testCivilities -->
+      </class> <!-- com.sfeir.bytecode.CivilityHelperTest -->
+    </test> <!-- Command line test -->
+  </suite> <!-- Command line suite -->
+</testng-results>
